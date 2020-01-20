@@ -1,0 +1,96 @@
+,game,date,player_name,over,over_odds,under,under_odds
+0,Detroit Pistons @ Washington Wizards,2020-01-20,Derrick Rose,Over 22.5,-117,Under 22.5,-105
+1,Detroit Pistons @ Washington Wizards,2020-01-20,Bruce Brown Jr.,Over 9.5,-105,Under 9.5,-117
+2,Detroit Pistons @ Washington Wizards,2020-01-20,Andre Drummond,Over 17.5,-125,Under 17.5,+104
+3,Detroit Pistons @ Washington Wizards,2020-01-20,Tony Snell,Over 8.5,+102,Under 8.5,-124
+4,Detroit Pistons @ Washington Wizards,2020-01-20,Isaiah Thomas,Over 11.5,+118,Under 11.5,-143
+5,Detroit Pistons @ Washington Wizards,2020-01-20,Sekou Doumbouya,Over 11.5,-120,Under 11.5,-103
+6,Detroit Pistons @ Washington Wizards,2020-01-20,Bradley Beal,Over 23.5,-134,Under 23.5,+110
+7,Detroit Pistons @ Washington Wizards,2020-01-20,Ian Mahinmi,Over 7.5,+108,Under 7.5,-132
+8,Toronto Raptors @ Atlanta Hawks,2020-01-20,Kyle Lowry,Over 18.5,-121,Under 18.5,+100
+9,Toronto Raptors @ Atlanta Hawks,2020-01-20,Pascal Siakam,Over 19.5,-114,Under 19.5,-107
+10,Toronto Raptors @ Atlanta Hawks,2020-01-20,OG Anunoby,Over 10.5,+100,Under 10.5,-121
+11,Toronto Raptors @ Atlanta Hawks,2020-01-20,Marc Gasol,Over 7.5,-115,Under 7.5,-106
+12,Toronto Raptors @ Atlanta Hawks,2020-01-20,Trae Young,Over 26.5,-117,Under 26.5,-105
+13,Toronto Raptors @ Atlanta Hawks,2020-01-20,Kevin Huerter,Over 12.5,-121,Under 12.5,+100
+14,Toronto Raptors @ Atlanta Hawks,2020-01-20,De'Andre Hunter,Over 11.5,+102,Under 11.5,-124
+15,Toronto Raptors @ Atlanta Hawks,2020-01-20,John Collins,Over 17.5,+100,Under 17.5,-121
+16,Philadelphia 76ers @ Brooklyn Nets,2020-01-20,Kyrie Irving,Over 22.5,-110,Under 22.5,-110
+17,Philadelphia 76ers @ Brooklyn Nets,2020-01-20,Spencer Dinwiddie,Over 19.5,-110,Under 19.5,-110
+18,Philadelphia 76ers @ Brooklyn Nets,2020-01-20,Jarrett Allen,Over 9.5,-121,Under 9.5,+100
+19,Philadelphia 76ers @ Brooklyn Nets,2020-01-20,Joe Harris,Over 10.5,-121,Under 10.5,+100
+20,Philadelphia 76ers @ Brooklyn Nets,2020-01-20,Taurean Prince,Over 11.5,-110,Under 11.5,-110
+21,Philadelphia 76ers @ Brooklyn Nets,2020-01-20,Ben Simmons,Over 17.5,-134,Under 17.5,+110
+22,Philadelphia 76ers @ Brooklyn Nets,2020-01-20,Tobias Harris,Over	 21.5,+100,Under 21.5,-121
+23,Philadelphia 76ers @ Brooklyn Nets,2020-01-20,Josh Richardson,Over 17.5,-121,Under 17.5,+100
+24,Oklahoma City Thunder @ Houston Rockets,2020-01-20,James Harden,Over 33.5,-121,Under 33.5,+100
+25,Oklahoma City Thunder @ Houston Rockets,2020-01-20,Russell Westbrook,Over 26.5,-110,Under 26.5,-110
+26,Oklahoma City Thunder @ Houston Rockets,2020-01-20,Clint Capela,Over 13.5,-110,Under 13.5,-110
+27,Oklahoma City Thunder @ Houston Rockets,2020-01-20,Ben McLemore,Over 10.5,+100,Under 10.5,-121
+28,Oklahoma City Thunder @ Houston Rockets,2020-01-20,PJ Tucker,Over 6.5,+100,Under 6.5,-121
+29,Oklahoma City Thunder @ Houston Rockets,2020-01-20,Chris Paul,Over 16.5,-110,Under 16.5,-110
+30,Oklahoma City Thunder @ Houston Rockets,2020-01-20,Shai Gilgeous-Alexander,Over 20.5,-110,Under 20.5,-110
+31,Oklahoma City Thunder @ Houston Rockets,2020-01-20,Steven Adams,Over 10.5,-121,Under 10.5,+100
+32,Oklahoma City Thunder @ Houston Rockets,2020-01-20,Danilo Gallinari,Over 19.5,+100,Under 19.5,-121
+33,Oklahoma City Thunder @ Houston Rockets,2020-01-20,Eric Gordon,Over 14.5,-110,Under 14.5,-110
+34,Chicago Bulls @ Milwaukee Bucks,2020-01-20,Zach LaVine,Over 27.5,-107,Under 27.5,-114
+35,Chicago Bulls @ Milwaukee Bucks,2020-01-20,Kris Dunn,Over 8.5,-107,Under 8.5,-114
+36,Chicago Bulls @ Milwaukee Bucks,2020-01-20,Lauri Markkanen,Over 16.5,+115,Under 16.5,-139
+37,Chicago Bulls @ Milwaukee Bucks,2020-01-20,Tomas Satoransky,Over 10.5,-103,Under 10.5,-120
+38,Chicago Bulls @ Milwaukee Bucks,2020-01-20,Giannis Antetokounmpo,Over 30.5,-107,Under 30.5,-114
+39,Chicago Bulls @ Milwaukee Bucks,2020-01-20,Khris Middleton,Over 18.5,-114,Under 18.5,-107
+40,Chicago Bulls @ Milwaukee Bucks,2020-01-20,Eric Bledsoe,Over 14.5,-106,Under 14.5,-115
+41,Chicago Bulls @ Milwaukee Bucks,2020-01-20,Brook Lopez,Over 11.5,+130,Under 11.5,-159
+42,Chicago Bulls @ Milwaukee Bucks,2020-01-20,Wesley Matthews,Over 7.5,+115,Under 7.5,-139
+43,Chicago Bulls @ Milwaukee Bucks,2020-01-20,Luke Kornet,Over 9.5,-110,Under 9.5,-110
+44,Sacramento Kings @ Miami Heat,2020-01-20,De'Aaron Fox,Over 18.5,+102,Under 18.5,-124
+45,Sacramento Kings @ Miami Heat,2020-01-20,Buddy Hield,Over 18.5,-107,Under 18.5,-114
+46,Sacramento Kings @ Miami Heat,2020-01-20,Harrison Barnes,Over 13.5,-105,Under 13.5,-117
+47,Sacramento Kings @ Miami Heat,2020-01-20,Marvin Bagley III,Over 15.5,-121,Under 15.5,+100
+48,Sacramento Kings @ Miami Heat,2020-01-20,Nemanja Bjelica,Over 12.5,-107,Under 12.5,-114
+49,Sacramento Kings @ Miami Heat,2020-01-20,Kendrick Nunn,Over 15.5,-112,Under 15.5,-109
+50,Sacramento Kings @ Miami Heat,2020-01-20,Duncan Robinson,Over 12.5,-106,Under 12.5,-115
+51,Sacramento Kings @ Miami Heat,2020-01-20,Meyers Leonard,Over 6.5,-120,Under 6.5,-103
+52,Sacramento Kings @ Miami Heat,2020-01-20,Jimmy Butler,Over 19.5,-107,Under 19.5,-114
+53,Sacramento Kings @ Miami Heat,2020-01-20,Bam Adebayo,Over 16.5,-117,Under 16.5,-105
+54,New Orleans Pelicans @ Memphis Grizzlies,2020-01-20,Lonzo Ball,Over 15.5,-110,Under 15.5,-110
+55,New Orleans Pelicans @ Memphis Grizzlies,2020-01-20,Brandon Ingram,Over 26.5,-139,Under 26.5,+115
+56,New Orleans Pelicans @ Memphis Grizzlies,2020-01-20,Ja Morant,Over 18.5,-104,Under 18.5,-118
+57,New Orleans Pelicans @ Memphis Grizzlies,2020-01-20,Jonas Valanciunas,Over 17.5,-107,Under 17.5,-114
+58,New Orleans Pelicans @ Memphis Grizzlies,2020-01-20,Jae Crowder,Over 11.5,-105,Under 11.5,-117
+59,New Orleans Pelicans @ Memphis Grizzlies,2020-01-20,Jaren Jackson Jr,Over 18.5,+102,Under 18.5,-124
+60,New Orleans Pelicans @ Memphis Grizzlies,2020-01-20,Dillon Brooks,Over 17.5,-103,Under 17.5,-120
+61,New York Knicks @ Cleveland Cavaliers,2020-01-20,Tristan Thompson,Over 12.5,-107,Under 12.5,-114
+62,New York Knicks @ Cleveland Cavaliers,2020-01-20,Kevin Love,Over 19.5,-107,Under 19.5,-114
+63,New York Knicks @ Cleveland Cavaliers,2020-01-20,Collin Sexton,Over 20.5,-120,Under 20.5,-103
+64,New York Knicks @ Cleveland Cavaliers,2020-01-20,Darius Garland,Over 14.5,-118,Under 14.5,-104
+65,New York Knicks @ Cleveland Cavaliers,2020-01-20,Cedi Osman,Over 12.5,-107,Under 12.5,-114
+66,New York Knicks @ Cleveland Cavaliers,2020-01-20,Julius Randle,Over 22.5,+100,Under 22.5,-121
+67,New York Knicks @ Cleveland Cavaliers,2020-01-20,Elfrid Payton,Over 10.5,-110,Under 10.5,-110
+68,New York Knicks @ Cleveland Cavaliers,2020-01-20,Reggie Bullock,Over 11.5,-106,Under 11.5,-115
+69,New York Knicks @ Cleveland Cavaliers,2020-01-20,Marcus Morris,Over 19.5,-114,Under 19.5,-107
+70,Orlando Magic @ Charlotte Hornets,2020-01-20,Evan Fournier,Over 17.5,-110,Under 17.5,-110
+71,Orlando Magic @ Charlotte Hornets,2020-01-20,Markelle Fultz,Over 13.5,-107,Under 13.5,-114
+72,Orlando Magic @ Charlotte Hornets,2020-01-20,Nikola Vucevic,Over 19.5,-107,Under 19.5,-114
+73,Orlando Magic @ Charlotte Hornets,2020-01-20,Aaron Gordon,Over 14.5,-110,Under 14.5,-110
+74,Orlando Magic @ Charlotte Hornets,2020-01-20,Terry Rozier,Over 19.5,-104,Under 19.5,-118
+75,Orlando Magic @ Charlotte Hornets,2020-01-20,Miles Bridges,Over 12.5,+102,Under 12.5,-124
+76,Orlando Magic @ Charlotte Hornets,2020-01-20,PJ Washington,Over 12.5,-115,Under 12.5,-106
+77,Orlando Magic @ Charlotte Hornets,2020-01-20,Devonte' Graham,Over 18.5,+100,Under 18.5,-121
+78,Orlando Magic @ Charlotte Hornets,2020-01-20,Cody Zeller,Over 10.5,-129,Under 10.5,+106
+79,Denver Nuggets @ Minnesota Timberwolves,2020-01-20,Shabazz Napier,Over 11.5,+106,Under 11.5,-129
+80,Denver Nuggets @ Minnesota Timberwolves,2020-01-20,Karl-Anthony Towns,Over 20.5,-143,Under 20.5,+118
+81,Denver Nuggets @ Minnesota Timberwolves,2020-01-20,Robert Covington,Over 13.5,+100,Under 13.5,-121
+82,Denver Nuggets @ Minnesota Timberwolves,2020-01-20,Jarrett Culver,Over 11.5,-143,Under 11.5,+118
+83,Denver Nuggets @ Minnesota Timberwolves,2020-01-20,Andrew Wiggins,Over 19.5,-104,Under 19.5,-118
+84,Indiana Pacers @ Utah Jazz,2020-01-20,Donovan Mitchell,Over 22.5,-110,Under 22.5,-110
+85,Indiana Pacers @ Utah Jazz,2020-01-20,Rudy Gobert,Over 15.5,-110,Under 15.5,-110
+86,Indiana Pacers @ Utah Jazz,2020-01-20,Bojan Bogdanović,Over 19.5,-110,Under 19.5,-110
+87,Indiana Pacers @ Utah Jazz,2020-01-20,Joe Ingles,Over 11.5,-110,Under 11.5,-110
+88,San Antonio Spurs @ Phoenix Suns,2020-01-20,Dario Saric,Over 10.5,-118,Under 10.5,-104
+89,San Antonio Spurs @ Phoenix Suns,2020-01-20,Kelly Jr. Oubre,Over 19.5,-104,Under 19.5,-118
+90,San Antonio Spurs @ Phoenix Suns,2020-01-20,DeAndre Ayton,Over 17.5,-103,Under 17.5,-120
+91,San Antonio Spurs @ Phoenix Suns,2020-01-20,Ricky Rubio,Over 14.5,-110,Under 14.5,-110
+92,San Antonio Spurs @ Phoenix Suns,2020-01-20,Devin Booker,Over 28.5,-110,Under 28.5,-110
+93,San Antonio Spurs @ Phoenix Suns,2020-01-20,LaMarcus Aldridge,Over 19.5,-107,Under 19.5,-114
+94,San Antonio Spurs @ Phoenix Suns,2020-01-20,DeMar DeRozan,Over 24.5,-107,Under 24.5,-114
