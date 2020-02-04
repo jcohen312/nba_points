@@ -19,13 +19,17 @@ I dropped players who do not average at least 5 shot attempts per game.
 
 For this project, I wanted to group players based on **bold how** they score on offense. The NBA tags every shot taken in a game with 46 different shot types. However, some of these shots are very similar to one another and using them to differentiate players would create unwanted variance between player groups. For example, there is not much difference between a "layup" and "driving layup". Plays like these are essentially the same thing. Therefore I grouped the NBA's 46 shot types into 8 broader categories which I felt best captured the essence of each offensive action. 
 # insert graphic for groups
-|Alley-oop|Dunk|Layup|Floater|Hook Shot|Created Jumper|Jump Shot|Rebound Shot|
-|---|---|---|---|---|---|---|---|
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
 
+| Alley Oop | Dunk | Layup | Floater | Hook Shot | Created Jumper | Jump Shot | Rebound Shot |
+|------------------------------|---------------------------|--------------------------------|---------------------------------|---------------------------|------------------------------------|--------------------|--------------------|
+| Alley Oop Dunk Shot | Cutting Dunk Shot | Running Finger Roll Layup Shot | Driving Floating Bank Jump Shot | Driving Bank Hook Shot | Pullup Jump shot | Jump Bank Shot | Putback Dunk Shot |
+| Alley Oop Layup shot | Driving Dunk Shot | Running Layup Shot | Driving Floating Jump Shot | Driving Hook Shot | Running Pull-Up Jump Shot | Jump Shot | Putback Layup Shot |
+| Running Alley Oop Dunk Shot | Driving Reverse Dunk Shot | Cutting Finger Roll Layup Shot | Floating Jump shot | Hook Bank Shot | Step Back Bank Jump Shot | Fadeaway Jump Shot | Tip Dunk Shot |
+| Running Alley Oop Layup Shot | Dunk Shot | Cutting Layup Shot |  | Hook Shot | Step Back Jump shot | Running Jump Shot | Tip Layup Shot |
+|  | Reverse Dunk Shot | Driving Finger Roll Layup Shot |  | Turnaround Bank Hook Shot | Turnaround Fadeaway shot |  |  |
+|  | Running Dunk Shot | Driving Layup Shot |  | Turnaround Hook Shot | Turnaround Fadeaway Bank Jump Shot |  |  |
+|  | Running Reverse Dunk Shot | Driving Reverse Layup Shot |  |  | Turnaround Jump Shot |  |  |
+|  |  | Finger Roll Layup Shot |  |  |  |  |  |
+|  |  | Layup Shot |  |  |  |  |  |
+|  |  | Reverse Layup Shot |  |  |  |  |  |
+|  |  | Running Reverse Layup Shot |  |  |  |  |  |
