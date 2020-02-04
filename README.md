@@ -58,7 +58,7 @@ In the notebook mentioned above, I also found which teams are most and least suc
 ## Other Methods Attempted
 
 * Kmeans clustering
-* n_clusters = 20,30
+* n_clusters = 20, 30
 * linkage = 'complete'
 
 ## Conclusion and Ideas for Further Exploration
