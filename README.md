@@ -20,7 +20,7 @@ I dropped players who do not average at least 5 shot attempts per game.
 For this project, I wanted to group players based on **bold how** they score on offense. The NBA tags every shot taken in a game with 46 different shot types. However, some of these shots are very similar to one another and using them to differentiate players would create unwanted variance between player groups. For example, there is not much difference between a "layup" and "driving layup". Plays like these are essentially the same thing. Therefore I grouped the NBA's 46 shot types into 8 broader categories which I felt best captured the essence of each offensive action. 
 # insert graphic for groups
 
-| Alley Oop | Dunk | Layup | Floater | Hook Shot | Created Jumper | Jump Shot | Rebound Shot |
+| Group #1 (Alley Oop) | Dunk | Layup | Floater | Hook Shot | Created Jumper | Jump Shot | Rebound Shot |
 |------------------------------|---------------------------|--------------------------------|---------------------------------|---------------------------|------------------------------------|--------------------|--------------------|
 | Alley Oop Dunk Shot | Cutting Dunk Shot | Running Finger Roll Layup Shot | Driving Floating Bank Jump Shot | Driving Bank Hook Shot | Pullup Jump shot | Jump Bank Shot | Putback Dunk Shot |
 | Alley Oop Layup shot | Driving Dunk Shot | Running Layup Shot | Driving Floating Jump Shot | Driving Hook Shot | Running Pull-Up Jump Shot | Jump Shot | Putback Layup Shot |
