@@ -50,8 +50,8 @@ Ultimately, I used hierarchical agglomerative clustering for my groups of player
 
 These parameters yielded results with a fair balance of clusters, yet differentiated players in a logical way based on the features described above. To explore the results of the clustering in detail or any spefic player's detailed shot breakdown, please see the [shot_visualizations notebook](https://github.com/jcTTP3/nba_points/blob/master/shot_visualizations.ipynb) (Interactive NBA Player Data). For an example of the interactive charts in the notebook, please see the below:
 
-![Cluster 19](https://github.com/jcTTP3/nba_points/blob/master/images/cluster19.png)
-![Cluster 16](https://github.com/jcTTP3/nba_points/blob/master/images/cluster16.png)
+![Cluster 9](https://github.com/jcTTP3/nba_points/blob/master/images/clust_9.png)
+![Cluster 10](https://github.com/jcTTP3/nba_points/blob/master/images/clust_10.png)
 
 In the notebook mentioned above, I also found which teams are most and least successful against each cluster along with which teams are most and least successful against each player's dominant shot type.
 
