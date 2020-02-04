@@ -36,11 +36,26 @@ For this project, I wanted to group players based on **how** they score on offen
 |  |  | Reverse Layup Shot |  |  |  |  |  |
 |  |  | Running Reverse Layup Shot |  |  |  |  |  |
 
-For these 8 shot groups, I calculated average shot distance, field goal percentage, and frequency of each shot attempt in order to find groups of players who are similar based on how they shoot the ball. I also included other features for clustering including....
+For these 8 shot groups, I calculated average shot distance, field goal percentage, and frequency of each shot attempt in order to find groups of players who are similar based on how they shoot the ball. I also included other features for clustering including such as field goal attempts per game, percentage of 2FGA, percentage of 3FGA, percentage of unnassisted versus assisted field goals, and percentage of points off turnovers along with a few others.
 
 ## Results
-Graphics about two different cluster groups 
+Ultimately, I used hierarchical agglomerative clustering for my groups of players with the following parameters:
+
+* n_clusters = 25
+* linkage = 'ward'
+
+These parameters yielded results with a fair balance of clusters, yet differentiated players in a logical way based on the features described above. To explore the results of the clustering in detail, please see the shot_visualizations notebook (section 10). For an example of the interactive charts in the notebook, please see the below:
+
+## insert graphic
 
 ## Other Methods Attempted
 
+* Kmeans clustering
+* n_clusters = 20,30
+* linkage = 'complete'
+
 ## Conclusion and Ideas for Further Exploration
+
+Through these techniques, one can can get a feel for how a player scores much more clearly than purely using his position to infer his playing style. In the context of game planning for opponents, the results of this project can be used to assess which players have similar tendencies on offense and which teams have been successful defending against a specific type of player. However, the methods used in this project only analyze scoring, one component of a player's offensive repertoire. To understand other aspects of someone's game, other features could be considered like passing and rebounding.
+
+In the future, I would like to explore whether using these cluster's to predict offensive output against certain teams is useful. For example, do players in a certain cluster score more than their average against certain teams than they normally do? I would also like to enhance this model with additional features like time of possession a player has the ball in his hands before attempting a shot, number of dribbles, and distance from the closest defender when shooting.
