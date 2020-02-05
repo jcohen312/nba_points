@@ -55,6 +55,8 @@ These parameters yielded results with a fair balance of clusters, yet differenti
 
 In the notebook mentioned above, I also found which teams are most and least successful against each cluster along with which teams are most and least successful against each player's dominant shot type.
 
+The accompanying presentation for this project can be found [here](https://docs.google.com/presentation/d/1vInFUKrXTP86o5pRafPj92p64Ll-aROihX9GJdGi2EE/edit?usp=sharing).
+
 ## Other Methods Attempted
 
 * Kmeans clustering
