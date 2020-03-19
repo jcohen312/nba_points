@@ -1,22 +1,12 @@
 import plotly
 # import plotly.plotly as py
 import plotly.graph_objs as go
-
-import matplotlib
-import matplotlib.pyplot as plt
-import seaborn as sns
-import numpy as np
 import pandas as pd
 import mysql.connector
 import config
-import warnings
-
-from plotly.subplots import make_subplots
+import numpy as np
 
 
-sns.set_style('darkgrid')
-
-warnings.simplefilter('ignore')
 
 
 dbname = 'nba'
@@ -145,7 +135,7 @@ court_shapes = [
 ]
 
 
-def shot_chart_trace(name, year=''):
+def shot_chart(name, year=''):
     if year:
         year_clean = '00' + year[0] + year[2:]
         player = shots[(shots.PLAYER_NAME == name) & (shots.GAME_ID.str.contains(year_clean))]
@@ -172,6 +162,15 @@ def shot_chart_trace(name, year=''):
     )
 
     data = [missed_shot_trace, made_shot_trace]
+    layout = go.Layout(
+        title=name + ' Shot Chart ' + year,
+        showlegend=True,
+        xaxis={'showgrid': False, 'range': [-250, 250]},
+        yaxis={'showgrid': False, 'range': [422.5, -47.5]},
+        height=600,
+        width=650,
+        shapes=court_shapes)
 
-    return data
+    fig = go.Figure(data=data, layout=layout)
+    return fig
 

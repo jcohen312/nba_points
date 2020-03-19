@@ -1,7 +1,7 @@
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
-from shot_viz.py import shot_chart_trace
+from shot_viz import shot_chart
 
 app = dash.Dash()
 
@@ -10,7 +10,7 @@ app.layout = html.Div([
     html.Label("Shot Cahrt"),
     html.Div(
         dcc.Graph(id='Ben Simmons',
-                  figure= shot_chart_trace('Ben Simmons', '2018')
+                  figure= shot_chart('Ben Simmons', '2018')
                   )
     )
 ])
